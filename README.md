@@ -39,5 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
+<img src="https://raw.githubusercontent.com/Majid2Dev/Majid2Dev/main/gitartwork.svg" height="30" width="142" alt="Majid"  />
 ###
